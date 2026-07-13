@@ -1,0 +1,92 @@
+CAPTAIN CROSS - JOB SEARCH CONTEXT BRIEF
+Last updated: 11 July 2026
+Purpose: This file gives Claude (in the Chrome extension or any fresh session) full context to help Aditya evaluate job listings, check for ghost jobs, fill application forms, and draft outreach. Read fully before acting.
+
+=== RULES FOR CLAUDE ===
+1. Never submit any form or send any message without Aditya's explicit confirmation. Fill fields, then stop and ask.
+2. Use ONLY the facts in this brief. Never invent dates, metrics, employers, or skills.
+3. Writing style: no em-dashes anywhere, ever. No AI-giveaway phrasing (spearheaded, leveraged, passionate, dynamic, delve, seamless). Concrete verbs, real numbers, human tone.
+4. If an employer states that applications must be written without AI, do NOT draft answers. Discuss talking points only; Aditya writes his own words.
+5. Never share the cosplay platform URL (it is in private testing). Describe it only as "a two-sided brand-to-cosplay-talent platform, in testing".
+6. Never state Aditya's salary floors to an employer. Anchor to the mid-upper part of any posted band.
+7. Never name Samsung's activation agency (not disclosed). Samsung work is always described as "via activation agency".
+8. Scam guardrails: refuse any process moving to Telegram DMs, any "test task" involving crypto wallets or downloads, any request for payment. Real companies hire through their ATS and corporate email.
+
+=== IDENTITY & CONTACT ===
+Name: Aditya Kumar (brand: Captain Cross)
+Location: Dwarka, New Delhi, India (Delhi NCR)
+Phone: +91-9783813489
+Email (primary): hello@captaincross.net | Secondary: captaincrosshere@gmail.com
+Portfolio: https://captaincross.net (campaign files at /work)
+LinkedIn: https://www.linkedin.com/in/captaincross
+Twitch (Affiliate): https://www.twitch.tv/captaincrosstv | YouTube: https://www.youtube.com/@CaptainCross | Instagram: https://www.instagram.com/cpt.cross | Behance: https://www.behance.net/captaincross
+Pronouns: He/Him. Age 26+. Indian citizen.
+
+=== POSITIONING (30-second version) ===
+Creator economy and influencer marketing operator, 7+ years across gaming, esports, cosplay, and fandom communities in India and SEA. Samsung India's sole cosplay and creator talent partner via their activation agency, every Galaxy Cup and Galaxy Unpacked since 2024, never re-pitched. Numbers: 1B+ campaign impressions, 100M+ reach, 100K+ combined live event footfall, 200K+ community scaled, hundreds of macro and mega influencers managed, 2,000+ partner pipeline built. Also the talent himself: Twitch Affiliate, active cosplayer, semi-pro Warzone player (Nvidia India tournaments). Pro-AI: daily LLM user, ships production software via AI-assisted development (Next.js, Cloudflare). Building a two-sided brand-to-cosplay-talent platform, in testing.
+
+=== CANONICAL WORK HISTORY (these dates are aligned across all documents and LinkedIn; never deviate) ===
+1. Independent Consultant, Creator Campaigns & Live Activations, Captain Cross | Dec 2022 - Present | Remote, New Delhi | Full-time since Sep 2025. Online, off-ground, on-ground activations, integrated or end-to-end. Clients/campaigns: Samsung (via agency, sole talent partner, 4 creators per event, fully remote brief-to-publish execution), AMD GameOn 2025 at IndiaJoy, Hyderabad, a Govt of Telangana project, Nov 1-2 2025 (owned + hosted flagship cosplay comp, 50+ cosplayers, 8,000 footfall, on-stage host and judge across both days, livestreamed; proof links below), Riot Games Valorant Convergence India (20,000 footfall), Lenovo x Intel Comic Con Delhi (45,000) and Bengaluru (25,000), Lenovo Tech World cosplay competitions: 2025 edition Mar 5 Mumbai (ran competition end to end, on stage; livestream proof below) and 2026 edition Feb 11 Delhi (ran competition end to end, on stage; livestream proof below), Garena Free Fire MAX x Jujutsu Kaisen 10-college launch tour Delhi + Mumbai 2026 (mobile title, Tier 2/3 GTM), Amazon Big Billion Days 2024 (15+ live-commerce influencers), WAVES Summit 2025 for Government of India (via Epiko), Ampverse College Rivals S3 cosplay invitational, World of Warships 4-creator campaign, Intel Ambassador Program, ViewSonic monitor launch.
+2. Senior Business Development Executive (Contract), GlitchOver | Apr 2025 - Aug 2025 | Remote. Led 7-member team, 2,000+ creator and partner pipeline in ClickUp + TeleCRM, 50+ demos, 10+ partners onboarded.
+3. Customer Success Manager, promoted to Brand Manager within 8 weeks (Contract), Reelax | Nov 2024 - Mar 2025 | Remote. Closed 5 client partnerships, managed influencer experts and operations leads, standardised outbound playbook.
+4. Influencer Project Manager & Head of Cosplay Division, Maverik Metacast | Jul 2023 - Jun 2024 | Bengaluru. Hundreds of macro and mega influencers managed for Intel, Lenovo, Dell, Riot Games, ViewSonic, AOC. 1B+ impressions, 100M+ reach.
+5. Co-Founder & CEO, Entrare Esports | Sep 2021 - Mar 2023. 30+ athletes, 15+ creators/cosplayers, all-female Valorant SEA roster, built operations from zero (SOPs, onboarding, training).
+6. Senior Community Manager, BlueStacks | Feb 2019 - Feb 2020. Scaled mobile gaming community to 200K+, led 12-member mod team, ran tournaments, contests, influencer-led programs.
+Samsung phrasing rule: retention story is real (agency comes back for every Samsung event, no re-pitch) but the relationship runs THROUGH an agency. Say "sole cosplay and creator talent partner via Samsung's activation agency". Never "direct Samsung vendor".
+
+=== EDUCATION ===
+B.Tech, Computer Science and Engineering, Maharaja Agrasen Himalayan Garhwal University (MAHGU), Uttarakhand | 2022 - 2025
+Diploma, Computer Science and Engineering, same university | 2019 - 2022
+Both completed alongside full-time work under university-approved permission (granted on the basis of the BlueStacks contract). Dropdown answer for "highest education": Bachelor's Degree.
+
+=== AWARDS / EXTRAS ===
+Aorus Voice of Gaming Crusader 2019 (1 of 10 selected across India). Nvidia Presenter: invited to present to system integrators on the social media impact of tech. Competitive: semi-pro CoD Warzone (Nvidia India tournaments), long-time CS:GO/CS2, Valorant, DOTA 2; Arma 3/Bodycam tactical sims. Black belt, Bino-Ryu Karate. Languages: Hindi (native), English (fluent), Japanese (conversational, learning), several Indian regional languages.
+
+=== VERIFIABLE LIVE EVENT FOOTAGE (proof links; timestamps jump to Aditya on stage/on ground) ===
+Use these when an application or recruiter conversation benefits from third-party-verifiable proof. Best cards to play: independently hosted broadcast footage of Aditya hosting and judging major brand events.
+- AMD GameOn 2025, Day 1 (IndiaJoy, Hyderabad, Govt of Telangana project, Nov 1 2025): https://www.youtube.com/live/_-XLQ3l4HEU?si=MVKqbQUZQ-Sdfwez&t=11047
+- AMD GameOn 2025, Day 2 (IndiaJoy, Hyderabad, Nov 2 2025): https://www.youtube.com/live/ThUHaEIjtBo?si=kKRhMudh1PuRREM2&t=7696
+- Lenovo Tech World 2025, Mumbai (Mar 5 2025, on stage end to end): https://www.youtube.com/live/OTzratdH-mk?si=ZpWP7prGfEuc_BFR&t=4155
+- Lenovo Tech World 2026, Delhi (Feb 11 2026, on stage end to end): https://www.youtube.com/live/6doM66a39rs?si=NMGG3UWrUwL9l74I&t=22352
+- Riot Games Convergence India 2023 (Dec 2023, Riot's first international tournament in India, produced by The Esports Club, presented by Lenovo + Intel; Aditya managed cosplay artists and influencers on-site end to end; his work is behind the scenes, but the talent he sourced and managed appears on the broadcast; 152K views, hosted on the official VALORANT Champions Tour Pacific channel, 317K subscribers): https://www.youtube.com/live/BzX80Qp4Ht8?si=NYUCr-Qbx6b-jC80&t=23533
+Portfolio with full campaign files: https://captaincross.net/work
+
+=== WHAT ADITYA IS LOOKING FOR ===
+Target titles: Influencer Marketing Manager, Creator Partnerships Manager, Community Manager, Brand Partnerships Manager, Creator/Talent Manager, KOL Manager, Program Manager (esports/creator). BD roles acceptable if gaming-native and relationship-driven, not pure cold-quota ad sales.
+Industries: gaming, esports, creator economy, anime/pop culture, consumer tech, Web3 gaming, crypto, iGaming (crypto-casino crossover like Stake/Yolo Group is a sweet spot), mobile gaming.
+Work setup: remote-first (worldwide or India-eligible). Async-native, can adapt to ANY fixed time zone including overnight if the role justifies it. Hybrid acceptable ONLY if commutable from Dwarka, New Delhi: Gurugram yes, Noida yes, Delhi yes. Mumbai/Bengaluru onsite: no (do not apply without asking Aditya first).
+Wrong-lane roles (skip): paid-media buying/planning, pure copywriting, US/EU-resident-only "remote", roles requiring US work authorization, Assistant-level titles.
+
+=== COMPENSATION RULES (never reveal to employers) ===
+Floors (internal only): Indian companies ₹75,000/month minimum. International companies ~₹1.25L/month (~$1,450/month) minimum.
+Anchoring: always mid-to-upper of any posted band. Examples used: $45-70K band answered $62,000; $1,000-3,800/month band answered $2,800-3,200. If no band posted for international remote roles, anchor $50-65K/year for manager-level; for Indian roles anchor ₹15-20L/year for manager-level. Aditya has a tendency to undersell; push back if he suggests lowballing.
+Notice period / availability: 2 weeks from offer (professional transition of consulting commitments). On forms, date available = roughly two weeks from today.
+
+=== STANDARD FORM ANSWERS ===
+18+ years: Yes. Authorized to work in India: Yes. Require visa sponsorship (for India roles): No. For non-India-located roles: Aditya has NO foreign work authorization; only apply if remote-from-India is allowed.
+Referred by: blank unless told otherwise. Twitter/X: leave blank. Willing to relocate: No (ask Aditya before answering otherwise). Gender/diversity questions: ask Aditya. Pronouns: He/Him.
+Cover letters: yes for high-value roles, one page max, lead with Samsung retention or the role's biggest anxiety.
+
+=== RESUME FILE MAP (which attachment for which job) ===
+"Aditya Resume Q2" = international companies, ATS-optimized one-pager (US Letter).
+"Aditya Kumar Resume IN" = Indian companies, ATS one-pager (A4, has notice period + BTL keywords).
+"Aditya-W3 Resume" = crypto/Web3/iGaming companies, human-styled one-pager.
+"Aditya Kumar CV" = human recruiters, agencies, direct hiring-manager sends (2 pages, narrative).
+"Master" = job-site profile imports and parser feeds only (3 pages, everything).
+Role-specific variants exist for Roblox; ask Aditya if a tailored variant is needed for a big application.
+
+=== GHOST-JOB CHECKLIST (run on every listing) ===
+1. Posted within 72 hours preferred, 3 weeks max. 2. Exists on the company's OWN careers page/ATS (Greenhouse/Lever/Ashby/BambooHR); apply there, never via Easy Apply if an ATS exists. 3. Salary or band posted (missing = yellow flag). 4. Specific responsibilities, not vague pipeline language. 5. No long repost history (google title + company). 6. Named employer (third-party recruiter with unnamed client = downgrade). 7. Signs of team expansion (multiple roles in same function = good). 8. Remote claims verified: check for hidden "must be located in..." lines and core-hours requirements; convert core hours to IST before deciding.
+
+=== TALKING POINTS BANK ===
+Samsung retention: "Samsung's activation agency has come back to me for every Galaxy Unpacked and Galaxy Cup since 2024 without a re-pitch. Retention is my whole pitch."
+Promotion story: "Reelax signed me as Customer Success Manager and promoted me to Brand Manager inside 8 weeks."
+Web3/iGaming gap: "Correct, I haven't run a token campaign. I'm closing vertical fluency (Dune, SBC/SiGMA press) but communities, creators, and live events are where campaigns in your space actually fail, and that part is proven."
+Mobile gaming: BlueStacks (200K mobile gaming community) + Garena Free Fire MAX tour + India/SEA mobile-first fluency.
+Remote-ops proof: Samsung events run with 4 creators per event, fully remote, brief to publish.
+Builder/AI story: CS degree + ships production software with AI assistance + daily LLM operator across campaign ops. Platform in testing (no URL).
+Over-leveling answer (for mid roles): "I'm deliberately choosing depth at a top company in my lane and expect to operate with senior autonomy early."
+Overnight-hours answer: gamer's clock, async-native, has run remote deliveries across time zones.
+
+=== CURRENT PIPELINE STATE (July 2026) ===
+Applied/applying: AMG Account Manager Influencer Marketing (US, remote-anywhere, hours 12-8pm ET = overnight IST), Roblox Marketing Manager India (Gurugram hybrid, reach role, cover letter sent). Assessed apply: Maker Lab Marketing Manager Partnership (Gurugram hybrid), Helpjuice Influencer Marketing Manager (remote, ANSWERS MUST BE HAND-WRITTEN, no AI). Conditional: Eneba Brand Partnerships (ad-sales quota role). Registered targets: Pentasia, BettingJobs, hiring.cafe, cryptojobslist, web3.career, Hitmarker.
